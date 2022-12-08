@@ -1,18 +1,18 @@
  <h1 align="center">⚡Gz⚡</h1>
 
-<a href="https://github.com/AyiinXd/AyiinUbot/commits"> <img src="https://img.shields.io/github/last-commit/AyiinXd/AyiinUbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/alvrnxz/Gzpyro-Bot/commits"> <img src="https://img.shields.io/github/last-commit/alvrnxz/Gzpyro-Bot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/AyiinUbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/AyiinXd/AyiinUbot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/alvrnxz/Gzpyro-Bot/graphs/commit-activity)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/AyiinXd/AyiinUbot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/AyiinXd/AyiinUbot?&logo=github)](https://github.com/AyiinXd/AyiinUbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/AyiinXd/AyiinUbot?&logo=github)](https://github.com/AyiinXd/AyiinUbot/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AyiinXd/AyiinUbot?&logo=github)](https://github.com/alvrnxz/Gzpyro-Bot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/AyiinXd/AyiinUbot?&logo=github)](https://github.com/alvrnxz/Gzpyro-Bot/stargazers)
 
 
 <p align="center">
-  <img src="https://telegra.ph//file/78ec83169711f650f0188.jpg">
+  <img src="https://graph.org/file/2a591d451c3e6e4af4c06.jpg">
 </p>
 
-👩‍💻 AyiinUbot adalah Pyrogram Userbot Telegram modular yang berjalan di Python3 dengan database MongoDB.
+👩‍💻 Gzpyro-Bot adalah Pyrogram Userbot Telegram modular yang berjalan di Python3 dengan database MongoDB.
 
 
 # Disclaimer
