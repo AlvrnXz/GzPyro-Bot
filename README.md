@@ -45,9 +45,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 ### Tutorial Deploy di VPS
 
 
- • `git clone https://github.com/AyiinXd/AyiinUbot`
+ • `git clone https://github.com/alvrnxz/Gzpyro-Bot`
 
- • `cd AyiinUbot`
+ • `cd Gezet`
 
  • `pip3 install -U -r requirements.txt`
 
@@ -59,9 +59,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
   - ketik ctrl + S
   - ctrl + X
 
- • `screen -S AyiinUbot`
+ • `screen -S Gezet`
 
- • `python3 -m pyAyiin`
+ • `python3 -m pygezet`
 
 </details>
 
@@ -77,7 +77,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 # Updates & Support
 
-Follow Channel [@AyiinSupport](https://t.me/AyiinSupport) untuk info Update bot dan Gabung Group [@AyiinChat](https://t.me/AyiinChat) untuk untuk diskusi, pelaporan bug, dan bantuan tentang AyiinUbot.
+Follow Channel [@GzSupportGroup](https://t.me/eageza) untuk info Update bot dan Gabung Group [@GzSupportGroup](https://t.me/GzSupportGroup) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Gzpyro-Bot.
 
 
 # © Credits
