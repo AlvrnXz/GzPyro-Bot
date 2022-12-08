@@ -2,8 +2,8 @@
     "name": "⋆ Gzpyro-Bot ⋆",
     "description": "[Gz] Userbot Hanya Untuk Bersenang - Senang",
     "logo": "https://graph.org/file/2a591d451c3e6e4af4c06.jpg",
-    "keywords": ["telegram", "userbot", "gezetUbot", "pyrogram", "modular", "python"],
-    "repository": "https://github.com/alvrnxz/Gzpyro-Bot",
+    "keywords": ["telegram", "userbot", "Gzpyro-Bot", "pyrogram", "modular", "python"],
+    "repository": "https://github.com/AyiinXd/AyiinUbot",
     "stack": "heroku-22",
     "env": {
       "API_ID": {
